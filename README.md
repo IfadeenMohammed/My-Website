@@ -2,7 +2,5 @@
 I am working on my nwe demo branch
 
 updating the readme file from GitHub 
-
-#Purpose COnflict on Local 
-
-Making conflict in local Repo
+## Purpose Conflict
+Making conflictt on GitHub repo and Git local 
